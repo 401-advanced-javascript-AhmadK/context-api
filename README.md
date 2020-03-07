@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]() (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-AhmadK/context-api/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-AhmadK/context-api/actions) (GitHub Actions)
 
 #### How to initialize/run your application (where applicable)
 
